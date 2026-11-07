@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "redlisten": {
+      "url": "https://api.redlisten.com/mcp",
+      "headers": {
+        "Authorization": "Bearer rl_live_YOUR_KEY"
+      }
+    }
+  }
+}
